@@ -1,0 +1,4 @@
+// Display name using alert
+const name = "User";
+alert("Name: " + name);
+console.log("I'm going to take you to a fandom user channel page the user iname is Jashaun ,J Hawthorne");
