@@ -1,0 +1,54 @@
+// Jashaun Jerome Hawthorne - Fandom Channel Information
+
+// --- Basic Information ---
+name: "Jashaun Jerome Hawthorne";
+fandomChannelStartDate: "June 30, 2025";
+channelAgeAtStart: 16;
+communicationStyle: "Direct and Open";
+
+// --- Personality Traits ---
+artistic: true;
+spellingHelpNeeded: true;
+rapidThinker: true;
+opportunitySeeker: true;
+loyal: true;
+
+// --- Social Interactions ---
+calmCommunicationPreferred: true;
+  // especially when feeling angry or overwhelmed
+honestyExpected: true;
+  // Expects others to communicate openly
+
+// --- Interests ---
+music: [
+  "Lil Nas X",
+  "Imagine Dragons",
+  "Eminem",
+  // ... (and many more)
+];
+games: [
+  "Borderlands Series",
+  "Five Nights at Freddy's",
+  // ... (and more)
+];
+colors: {
+  red: "Madness, Anger, Power, and Strength";
+  pink: "Teffness, Ideas, and Courage";
+};
+
+// --- Devices ---
+devicesUsed: [
+  "PlayStation",
+  "PCs",
+  "Roku TVs",
+  // ... (and others)
+];
+
+// --- Additional Notes ---
+// Jashaun is actively involved in the gaming community.
+// The fandom channel is a place for people to learn more about him.
+
+// --- Important Considerations ---
+// Jashaun values honesty and open communication.
+// He appreciates kindness and will reciprocate.
+// He prefers a calm environment, especially when feeling upset.
